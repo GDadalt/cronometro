@@ -1,0 +1,14 @@
+h1 {
+    color: red; /* define a cor da fonte para vermelho */
+    text-align: center; /* centraliza o texto da tag */
+    font-size: 3rem; /* tamanho do elemento*/
+}
+
+#contador {
+    font-size: 100px; /* define o tamanho da fonte */
+    text-align: center; /* centraliza o texto da tag */
+}
+
+.botoes {
+    text-align: center; /* centraliza o texto da tag */
+}
